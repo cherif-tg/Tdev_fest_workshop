@@ -1,0 +1,11 @@
+torch
+transformers
+sentencepiece
+sacrebleu
+sentence-transformers
+gradio
+huggingface_hub
+pandas
+matplotlib
+requests
+jupyter
