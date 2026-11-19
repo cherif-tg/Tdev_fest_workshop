@@ -89,6 +89,6 @@ Licence du code de ce dépôt : [à choisir, par exemple MIT].
 ## Auteur
 
 **Cherif Tenga** · Data Scientist et AI Engineer
-[LinkedIn / contact à compléter]
+tengacherif@gmail.com
 
 Les contributions sont les bienvenues : propositions de questions d'audit, corrections de traductions par des locuteurs éwé, ajout d'autres langues locales.
