@@ -84,7 +84,7 @@ Pour un groupe nombreux, évitez que tout le monde appelle l'API en même temps 
 
 Vérifiez les licences de chaque modèle avant un usage commercial : NLLB-200 est, à ma connaissance, publié sous une licence non commerciale (CC-BY-NC 4.0).
 
-Licence du code de ce dépôt : [à choisir, par exemple MIT].
+Licence du code de ce dépôt : MIT.
 
 ## Auteur
 
